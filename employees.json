@@ -1,0 +1,9 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "สมชาย ใจดี",
+    "username": "admin",
+    "password": "123",
+    "role": "staff"
+  }
+]

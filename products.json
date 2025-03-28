@@ -1,0 +1,149 @@
+[
+    {
+        "quantity": 75,
+        "price": 800,
+        "product_code": "P001",
+        "category": "Car Cleaning Liquids",
+        "product_name": "Car Wax / Coating"
+    },
+    {
+        "quantity": 77,
+        "price": 600,
+        "product_code": "P002",
+        "category": "Car Cleaning Liquids",
+        "product_name": "Car Polish"
+    },
+    {
+        "quantity": 91,
+        "price": 350,
+        "product_code": "P003",
+        "category": "Car Cleaning Liquids",
+        "product_name": "Wheel Cleaner"
+    },
+    {
+        "quantity": 97,
+        "price": 400,
+        "product_code": "P004",
+        "category": "Car Cleaning Liquids",
+        "product_name": "Foam Shampoo"
+    },
+    {
+        "quantity": 100,
+        "price": 250,
+        "product_code": "P005",
+        "category": "Car Cleaning Liquids",
+        "product_name": "Glass Cleaner"
+    },
+    {
+        "quantity": 89,
+        "price": 150,
+        "product_code": "P006",
+        "category": "Car Cleaning Accessories",
+        "product_name": "Microfiber Cloth"
+    },
+    {
+        "quantity": 93,
+        "price": 150,
+        "product_code": "P007",
+        "category": "Car Cleaning Accessories",
+        "product_name": "Car Wash Sponge"
+    },
+    {
+        "quantity": 94,
+        "price": 250,
+        "product_code": "P008",
+        "category": "Car Cleaning Accessories",
+        "product_name": "Wheel Brush"
+    },
+    {
+        "quantity": 95,
+        "price": 300,
+        "product_code": "P009",
+        "category": "Car Cleaning Accessories",
+        "product_name": "Interior Cleaning Brush"
+    },
+    {
+        "quantity": 100,
+        "price": 1000,
+        "product_code": "P010",
+        "category": "Car Cleaning Accessories",
+        "product_name": "Car Vacuum Cleaner"
+    },
+    {
+        "quantity": 85,
+        "price": 400,
+        "product_code": "P011",
+        "category": "Car Parts & Maintenance",
+        "product_name": "Windshield Wiper Blade"
+    },
+    {
+        "quantity": 85,
+        "price": 1800,
+        "product_code": "P012",
+        "category": "Car Parts & Maintenance",
+        "product_name": "Car Headlight Bulb (LED / Xenon)"
+    },
+    {
+        "quantity": 95,
+        "price": 100,
+        "product_code": "P013",
+        "category": "Car Parts & Maintenance",
+        "product_name": "Battery Water"
+    },
+    {
+        "quantity": 98,
+        "price": 2500,
+        "product_code": "P014",
+        "category": "Car Parts & Maintenance",
+        "product_name": "Car Battery"
+    },
+    {
+        "quantity": 99,
+        "price": 1800,
+        "product_code": "P015",
+        "category": "Car Parts & Maintenance",
+        "product_name": "Portable Tire Inflator"
+    },
+    {
+        "quantity": 98,
+        "price": 400,
+        "product_code": "P016",
+        "category": "Interior Care Products",
+        "product_name": "Leather Conditioner"
+    },
+    {
+        "quantity": 96,
+        "price": 350,
+        "product_code": "P017",
+        "category": "Interior Care Products",
+        "product_name": "Odor Eliminator Spray"
+    },
+    {
+        "quantity": 98,
+        "price": 2500,
+        "product_code": "P018",
+        "category": "Interior Care Products",
+        "product_name": "Car Air Purifier"
+    },
+    {
+        "quantity": 87,
+        "price": 250,
+        "product_code": "P019",
+        "category": "Interior Care Products",
+        "product_name": "Car Seat Dust Brush"
+    },
+    {
+        "quantity": 92,
+        "price": 300,
+        "product_code": "P020",
+        "category": "Interior Care Products",
+        "product_name": "Car Neck Pillow"
+    },
+    {
+        "quantity": 95,
+        "price": 400,
+        "product_code": "P021",
+        "category": "Interior Care Products",
+        "product_name": "Side Window Sunshade"
+    }
+]

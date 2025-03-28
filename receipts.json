@@ -1,0 +1,1560 @@
+[
+    {
+        "date": "2568-03-21",
+        "total": 2750,
+        "receipt_id": "R001",
+        "services": [
+            {
+                "duration": "30 minutes",
+                "price": 250,
+                "service_id": "S001",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "1 hour",
+                "price": 2500,
+                "service_id": "S004",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C001",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 2500,
+        "receipt_id": "R002",
+        "services": [{
+            "duration": "1 hour",
+            "price": 2500,
+            "service_id": "S004",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C002",
+        "total_time": "1 hours ",
+        "payment_method": "Credit Card"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 1300,
+        "receipt_id": "R003",
+        "services": [
+            {
+                "duration": "1 hour",
+                "price": 300,
+                "service_id": "S002",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "45 minutes",
+                "price": 1000,
+                "service_id": "S003",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C003",
+        "total_time": "1 hours 45 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 15000,
+        "receipt_id": "R004",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 3000,
+                "service_id": "S004",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "5 hours",
+                "price": 12000,
+                "service_id": "S005",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C004",
+        "total_time": "7 hours ",
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 17000,
+        "receipt_id": "R005",
+        "services": [
+            {
+                "duration": "7 hours",
+                "price": 15000,
+                "service_id": "S005",
+                "vehicle_type": "SUV/Pickup/Van"
+            },
+            {
+                "duration": "2 hours",
+                "price": 2000,
+                "service_id": "S006",
+                "vehicle_type": "SUV/Pickup/Van"
+            }
+        ],
+        "customer_id": "C005",
+        "total_time": "9 hours ",
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 2500,
+        "receipt_id": "R006",
+        "services": [{
+            "duration": "1 hour",
+            "price": 2500,
+            "service_id": "S004",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C006",
+        "total_time": "1 hours ",
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 4500,
+        "receipt_id": "R007",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 3000,
+                "service_id": "S004",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C007",
+        "total_time": "3 hours 30 minutes",
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 2800,
+        "receipt_id": "R008",
+        "services": [
+            {
+                "duration": "1 hour",
+                "price": 300,
+                "service_id": "S001",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "2 hours",
+                "price": 2500,
+                "service_id": "S003",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C008",
+        "total_time": "3 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 13900,
+        "receipt_id": "R009",
+        "services": [
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 400,
+                "service_id": "S002",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "5 hours",
+                "price": 12000,
+                "service_id": "S005",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C009",
+        "total_time": "8 hours ",
+        "payment_method": "Credit Card"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 300,
+        "receipt_id": "R010",
+        "services": [{
+            "duration": "1 hour",
+            "price": 300,
+            "service_id": "S002",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C010",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 1500,
+        "receipt_id": "R011",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 1500,
+            "service_id": "S006",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C011",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 400,
+        "receipt_id": "R012",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 400,
+            "service_id": "S002",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C012",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 9300,
+        "receipt_id": "R013",
+        "services": [
+            {
+                "duration": "1 hour",
+                "price": 300,
+                "service_id": "S002",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "45 minutes",
+                "price": 1000,
+                "service_id": "S003",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "4 hours",
+                "price": 8000,
+                "service_id": "S005",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C013",
+        "total_time": "5 hours 45 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 15000,
+        "receipt_id": "R014",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 3000,
+                "service_id": "S004",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "5 hours",
+                "price": 12000,
+                "service_id": "S005",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C014",
+        "total_time": "7 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 2800,
+        "receipt_id": "R015",
+        "services": [
+            {
+                "duration": "1 hour",
+                "price": 300,
+                "service_id": "S002",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "1 hour",
+                "price": 2500,
+                "service_id": "S004",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C017",
+        "total_time": "2 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 0,
+        "receipt_id": "R016",
+        "services": [],
+        "customer_id": "C018",
+        "total_time": "",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 12300,
+        "receipt_id": "R017",
+        "services": [
+            {
+                "duration": "1 hour",
+                "price": 300,
+                "service_id": "S001",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "5 hours",
+                "price": 12000,
+                "service_id": "S005",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C019",
+        "total_time": "6 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 3300,
+        "receipt_id": "R018",
+        "services": [{
+            "duration": "3 hours",
+            "price": 3300,
+            "service_id": "S003",
+            "vehicle_type": "SUV/Pickup/Van"
+        }],
+        "customer_id": "C021",
+        "total_time": "3 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 3500,
+        "receipt_id": "R019",
+        "services": [
+            {
+                "duration": "45 minutes",
+                "price": 1000,
+                "service_id": "S003",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "1 hour",
+                "price": 2500,
+                "service_id": "S004",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C034",
+        "total_time": "1 hours 45 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 15100,
+        "receipt_id": "R020",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 2500,
+                "service_id": "S003",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "5 hours",
+                "price": 12000,
+                "service_id": "S005",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 600,
+                "service_id": "S008",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C035",
+        "total_time": "8 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2200,
+        "receipt_id": "R021",
+        "services": [
+            {
+                "duration": "1 hour",
+                "price": 300,
+                "service_id": "S001",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 400,
+                "service_id": "S002",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C036",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 0,
+        "receipt_id": "R022",
+        "services": [],
+        "customer_id": "C038",
+        "total_time": "",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 5000,
+        "receipt_id": "R023",
+        "services": [{
+            "duration": "3 hours",
+            "price": 5000,
+            "service_id": "S004",
+            "vehicle_type": "SUV/Pickup/Van"
+        }],
+        "customer_id": "C041",
+        "total_time": "3 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 250,
+        "receipt_id": "R024",
+        "services": [{
+            "duration": "30 minutes",
+            "price": 250,
+            "service_id": "S001",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C045",
+        "total_time": "30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 250,
+        "receipt_id": "R025",
+        "services": [{
+            "duration": "30 minutes",
+            "price": 250,
+            "service_id": "S001",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C059",
+        "total_time": "30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 13500,
+        "receipt_id": "R026",
+        "services": [
+            {
+                "duration": "5 hours",
+                "price": 12000,
+                "service_id": "S005",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C062",
+        "total_time": "6 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 300,
+        "receipt_id": "R027",
+        "services": [{
+            "duration": "1 hour",
+            "price": 300,
+            "service_id": "S002",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C065",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 0,
+        "receipt_id": "R028",
+        "services": [],
+        "customer_id": "C067",
+        "total_time": "",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2000,
+        "receipt_id": "R029",
+        "services": [{
+            "duration": "2 hours",
+            "price": 2000,
+            "service_id": "S006",
+            "vehicle_type": "SUV/Pickup/Van"
+        }],
+        "customer_id": "C068",
+        "total_time": "2 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1500,
+        "receipt_id": "R030",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 1500,
+            "service_id": "S006",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C070",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2000,
+        "receipt_id": "R031",
+        "services": [{
+            "duration": "2 hours",
+            "price": 2000,
+            "service_id": "S006",
+            "vehicle_type": "SUV/Pickup/Van"
+        }],
+        "customer_id": "C075",
+        "total_time": "2 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1500,
+        "receipt_id": "R032",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 1500,
+            "service_id": "S006",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C080",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R033",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C085",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 300,
+        "receipt_id": "R034",
+        "services": [{
+            "duration": "1 hour",
+            "price": 300,
+            "service_id": "S001",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C089",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R035",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C096",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 300,
+        "receipt_id": "R036",
+        "services": [{
+            "duration": "1 hour",
+            "price": 300,
+            "service_id": "S002",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C098",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 3000,
+        "receipt_id": "R037",
+        "services": [{
+            "duration": "2 hours",
+            "price": 3000,
+            "service_id": "S004",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C002",
+        "total_time": "2 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2100,
+        "receipt_id": "R038",
+        "services": [
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 600,
+                "service_id": "S008",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C006",
+        "total_time": "3 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 250,
+        "receipt_id": "R039",
+        "services": [{
+            "duration": "30 minutes",
+            "price": 250,
+            "service_id": "S001",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C005",
+        "total_time": "30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 600,
+        "receipt_id": "R040",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 600,
+            "service_id": "S008",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C009",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 0,
+        "receipt_id": "R041",
+        "services": [],
+        "customer_id": "C013",
+        "total_time": "",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 700,
+        "receipt_id": "R042",
+        "services": [{
+            "duration": "2 hours 30 minutes",
+            "price": 700,
+            "service_id": "S008",
+            "vehicle_type": "SUV/Pickup/Van"
+        }],
+        "customer_id": "C016",
+        "total_time": "2 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1500,
+        "receipt_id": "R043",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 1500,
+            "service_id": "S006",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C021",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 13500,
+        "receipt_id": "R044",
+        "services": [
+            {
+                "duration": "5 hours",
+                "price": 12000,
+                "service_id": "S005",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "2 hours",
+                "price": 1500,
+                "service_id": "S007",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C026",
+        "total_time": "7 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 12000,
+        "receipt_id": "R045",
+        "services": [{
+            "duration": "5 hours",
+            "price": 12000,
+            "service_id": "S005",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C031",
+        "total_time": "5 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 0,
+        "receipt_id": "R046",
+        "services": [],
+        "customer_id": "C033",
+        "total_time": "",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2500,
+        "receipt_id": "R047",
+        "services": [{
+            "duration": "1 hour",
+            "price": 2500,
+            "service_id": "S004",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C034",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1900,
+        "receipt_id": "R048",
+        "services": [
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 400,
+                "service_id": "S002",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C037",
+        "total_time": "3 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 4500,
+        "receipt_id": "R049",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 3000,
+                "service_id": "S004",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "2 hours",
+                "price": 1500,
+                "service_id": "S007",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C041",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1200,
+        "receipt_id": "R050",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 500,
+                "service_id": "S002",
+                "vehicle_type": "SUV/Pickup/Van"
+            },
+            {
+                "duration": "2 hours 30 minutes",
+                "price": 700,
+                "service_id": "S008",
+                "vehicle_type": "SUV/Pickup/Van"
+            }
+        ],
+        "customer_id": "C046",
+        "total_time": "4 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 4500,
+        "receipt_id": "R051",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 3000,
+                "service_id": "S004",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C050",
+        "total_time": "3 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R052",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C054",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 4500,
+        "receipt_id": "R053",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 3000,
+                "service_id": "S004",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "2 hours",
+                "price": 1500,
+                "service_id": "S007",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C057",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 0,
+        "receipt_id": "R054",
+        "services": [],
+        "customer_id": "C061",
+        "total_time": "",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1000,
+        "receipt_id": "R055",
+        "services": [{
+            "duration": "45 minutes",
+            "price": 1000,
+            "service_id": "S003",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C066",
+        "total_time": "45 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 5500,
+        "receipt_id": "R056",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 2500,
+                "service_id": "S003",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "2 hours",
+                "price": 1500,
+                "service_id": "S007",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "2 hours",
+                "price": 1500,
+                "service_id": "S007",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C070",
+        "total_time": "6 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 3000,
+        "receipt_id": "R057",
+        "services": [
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "2 hours",
+                "price": 1500,
+                "service_id": "S007",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C074",
+        "total_time": "3 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2500,
+        "receipt_id": "R058",
+        "services": [{
+            "duration": "1 hour",
+            "price": 2500,
+            "service_id": "S004",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C078",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 12000,
+        "receipt_id": "R059",
+        "services": [{
+            "duration": "5 hours",
+            "price": 12000,
+            "service_id": "S005",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C077",
+        "total_time": "5 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2500,
+        "receipt_id": "R060",
+        "services": [{
+            "duration": "1 hour",
+            "price": 2500,
+            "service_id": "S004",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C083",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R061",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C087",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R062",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C090",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 250,
+        "receipt_id": "R063",
+        "services": [{
+            "duration": "30 minutes",
+            "price": 250,
+            "service_id": "S001",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C092",
+        "total_time": "30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 9000,
+        "receipt_id": "R064",
+        "services": [
+            {
+                "duration": "45 minutes",
+                "price": 1000,
+                "service_id": "S003",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "4 hours",
+                "price": 8000,
+                "service_id": "S005",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C096",
+        "total_time": "4 hours 45 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 4000,
+        "receipt_id": "R065",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 2500,
+                "service_id": "S003",
+                "vehicle_type": "Sedan"
+            },
+            {
+                "duration": "1 hour 30 minutes",
+                "price": 1500,
+                "service_id": "S006",
+                "vehicle_type": "Sedan"
+            }
+        ],
+        "customer_id": "C100",
+        "total_time": "3 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R066",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C103",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 600,
+        "receipt_id": "R067",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 600,
+            "service_id": "S008",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C105",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 3000,
+        "receipt_id": "R068",
+        "services": [{
+            "duration": "2 hours",
+            "price": 3000,
+            "service_id": "S004",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C109",
+        "total_time": "2 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2500,
+        "receipt_id": "R069",
+        "services": [{
+            "duration": "1 hour",
+            "price": 2500,
+            "service_id": "S004",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C113",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1500,
+        "receipt_id": "R070",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 1500,
+            "service_id": "S006",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C117",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1500,
+        "receipt_id": "R071",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 1500,
+            "service_id": "S006",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C122",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 0,
+        "receipt_id": "R072",
+        "services": [],
+        "customer_id": "C123",
+        "total_time": "",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2800,
+        "receipt_id": "R073",
+        "services": [
+            {
+                "duration": "1 hour",
+                "price": 300,
+                "service_id": "S002",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "1 hour",
+                "price": 2500,
+                "service_id": "S004",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C125",
+        "total_time": "2 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 3000,
+        "receipt_id": "R074",
+        "services": [{
+            "duration": "2 hours",
+            "price": 3000,
+            "service_id": "S004",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C127",
+        "total_time": "2 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1500,
+        "receipt_id": "R075",
+        "services": [{
+            "duration": "1 hour 30 minutes",
+            "price": 1500,
+            "service_id": "S006",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C130",
+        "total_time": "1 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 10500,
+        "receipt_id": "R076",
+        "services": [
+            {
+                "duration": "4 hours",
+                "price": 8000,
+                "service_id": "S005",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "1 hour",
+                "price": 2500,
+                "service_id": "S004",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C131",
+        "total_time": "5 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2700,
+        "receipt_id": "R077",
+        "services": [
+            {
+                "duration": "2 hours",
+                "price": 2000,
+                "service_id": "S006",
+                "vehicle_type": "SUV/Pickup/Van"
+            },
+            {
+                "duration": "2 hours 30 minutes",
+                "price": 700,
+                "service_id": "S008",
+                "vehicle_type": "SUV/Pickup/Van"
+            }
+        ],
+        "customer_id": "C132",
+        "total_time": "4 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R078",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C137",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R079",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C137",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R080",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C137",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 300,
+        "receipt_id": "R081",
+        "services": [{
+            "duration": "1 hour",
+            "price": 300,
+            "service_id": "S002",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C141",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 300,
+        "receipt_id": "R082",
+        "services": [{
+            "duration": "1 hour",
+            "price": 300,
+            "service_id": "S002",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C141",
+        "total_time": "1 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 3000,
+        "receipt_id": "R083",
+        "services": [{
+            "duration": "2 hours",
+            "price": 3000,
+            "service_id": "S004",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C145",
+        "total_time": "2 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R084",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C144",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 5700,
+        "receipt_id": "R085",
+        "services": [
+            {
+                "duration": "3 hours",
+                "price": 5000,
+                "service_id": "S004",
+                "vehicle_type": "SUV/Pickup/Van"
+            },
+            {
+                "duration": "2 hours 30 minutes",
+                "price": 700,
+                "service_id": "S008",
+                "vehicle_type": "SUV/Pickup/Van"
+            }
+        ],
+        "customer_id": "C147",
+        "total_time": "5 hours 30 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R086",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C150",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 12000,
+        "receipt_id": "R087",
+        "services": [{
+            "duration": "5 hours",
+            "price": 12000,
+            "service_id": "S005",
+            "vehicle_type": "Sedan"
+        }],
+        "customer_id": "C151",
+        "total_time": "5 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8000,
+        "receipt_id": "R088",
+        "services": [{
+            "duration": "4 hours",
+            "price": 8000,
+            "service_id": "S005",
+            "vehicle_type": "Motorcycle"
+        }],
+        "customer_id": "C154",
+        "total_time": "4 hours ",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1250,
+        "receipt_id": "R089",
+        "services": [
+            {
+                "duration": "30 minutes",
+                "price": 250,
+                "service_id": "S001",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "45 minutes",
+                "price": 1000,
+                "service_id": "S003",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C156",
+        "total_time": "1 hours 15 minutes",
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 3500,
+        "receipt_id": "R090",
+        "services": [
+            {
+                "duration": "45 minutes",
+                "price": 1000,
+                "service_id": "S003",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "1 hour",
+                "price": 2500,
+                "service_id": "S004",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C157",
+        "total_time": "1 hours 45 minutes",
+        "payment_method": "Cash",
+        "customer": "Tanya Kom"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1250,
+        "receipt_id": "R091",
+        "services": [
+            {
+                "duration": "30 minutes",
+                "price": 250,
+                "service_id": "S001",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "45 minutes",
+                "price": 1000,
+                "service_id": "S003",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C158",
+        "total_time": "1 hours 15 minutes",
+        "payment_method": "Cash",
+        "customer": "Tanya Kom"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1250,
+        "receipt_id": "R092",
+        "services": [
+            {
+                "duration": "30 minutes",
+                "price": 250,
+                "service_id": "S001",
+                "vehicle_type": "Motorcycle"
+            },
+            {
+                "duration": "45 minutes",
+                "price": 1000,
+                "service_id": "S003",
+                "vehicle_type": "Motorcycle"
+            }
+        ],
+        "customer_id": "C159",
+        "total_time": "1 hours 15 minutes",
+        "payment_method": "Cash",
+        "customer": "Tanya Kom"
+    }
+]

@@ -1,0 +1,18 @@
+{
+  "date": "2025-03-06",
+  "total_sales": 50000.00,
+  "services_sold": [
+    {
+      "service_id": "S001",
+      "quantity": 10,
+      "revenue": 3000.00
+    }
+  ],
+  "products_sold": [
+    {
+      "product_id": "P001",
+      "quantity": 5,
+      "revenue": 4000.00
+    }
+  ]
+}

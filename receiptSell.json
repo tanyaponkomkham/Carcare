@@ -1,0 +1,664 @@
+[
+    {
+        "date": "2568-03-21",
+        "total": 150,
+        "receipt_id": "S001",
+        "items": [{
+            "quantity": 1,
+            "total_price": 150,
+            "unit_price": 150,
+            "product_name": "Car Wash Sponge"
+        }],
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 2500,
+        "receipt_id": "S002",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 300,
+                "unit_price": 300,
+                "product_name": "Car Neck Pillow"
+            },
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Side Window Sunshade"
+            },
+            {
+                "quantity": 1,
+                "total_price": 1800,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            }
+        ],
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 1400,
+        "receipt_id": "S003",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 800,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 600,
+                "unit_price": 600,
+                "product_name": "Car Polish"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 6500,
+        "receipt_id": "S004",
+        "items": [
+            {
+                "quantity": 3,
+                "total_price": 2400,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Leather Conditioner"
+            },
+            {
+                "quantity": 1,
+                "total_price": 2500,
+                "unit_price": 2500,
+                "product_name": "Car Air Purifier"
+            },
+            {
+                "quantity": 2,
+                "total_price": 1200,
+                "unit_price": 600,
+                "product_name": "Car Polish"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-21",
+        "total": 2050,
+        "receipt_id": "S005",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 800,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 350,
+                "unit_price": 350,
+                "product_name": "Wheel Cleaner"
+            },
+            {
+                "quantity": 1,
+                "total_price": 600,
+                "unit_price": 600,
+                "product_name": "Car Polish"
+            },
+            {
+                "quantity": 1,
+                "total_price": 150,
+                "unit_price": 150,
+                "product_name": "Microfiber Cloth"
+            },
+            {
+                "quantity": 1,
+                "total_price": 150,
+                "unit_price": 150,
+                "product_name": "Car Wash Sponge"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2200,
+        "receipt_id": "S006",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Windshield Wiper Blade"
+            },
+            {
+                "quantity": 1,
+                "total_price": 1800,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 5000,
+        "receipt_id": "S007",
+        "items": [
+            {
+                "quantity": 2,
+                "total_price": 1600,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Windshield Wiper Blade"
+            },
+            {
+                "quantity": 2,
+                "total_price": 1200,
+                "unit_price": 600,
+                "product_name": "Car Polish"
+            },
+            {
+                "quantity": 1,
+                "total_price": 1800,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1800,
+        "receipt_id": "S008",
+        "items": [{
+            "quantity": 1,
+            "total_price": 1800,
+            "unit_price": 1800,
+            "product_name": "Car Headlight Bulb (LED / Xenon)"
+        }],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 600,
+        "receipt_id": "S009",
+        "items": [
+            {
+                "quantity": 2,
+                "total_price": 300,
+                "unit_price": 150,
+                "product_name": "Microfiber Cloth"
+            },
+            {
+                "quantity": 2,
+                "total_price": 300,
+                "unit_price": 150,
+                "product_name": "Car Wash Sponge"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 800,
+        "receipt_id": "S010",
+        "items": [{
+            "quantity": 1,
+            "total_price": 800,
+            "unit_price": 800,
+            "product_name": "Car Wax / Coating"
+        }],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1500,
+        "receipt_id": "S011",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Leather Conditioner"
+            },
+            {
+                "quantity": 2,
+                "total_price": 700,
+                "unit_price": 350,
+                "product_name": "Odor Eliminator Spray"
+            },
+            {
+                "quantity": 1,
+                "total_price": 150,
+                "unit_price": 150,
+                "product_name": "Microfiber Cloth"
+            },
+            {
+                "quantity": 1,
+                "total_price": 250,
+                "unit_price": 250,
+                "product_name": "Wheel Brush"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 8150,
+        "receipt_id": "S012",
+        "items": [
+            {
+                "quantity": 4,
+                "total_price": 1600,
+                "unit_price": 400,
+                "product_name": "Windshield Wiper Blade"
+            },
+            {
+                "quantity": 1,
+                "total_price": 2500,
+                "unit_price": 2500,
+                "product_name": "Car Battery"
+            },
+            {
+                "quantity": 1,
+                "total_price": 250,
+                "unit_price": 250,
+                "product_name": "Car Seat Dust Brush"
+            },
+            {
+                "quantity": 2,
+                "total_price": 3600,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            },
+            {
+                "quantity": 2,
+                "total_price": 200,
+                "unit_price": 100,
+                "product_name": "Battery Water"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 4000,
+        "receipt_id": "S013",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Windshield Wiper Blade"
+            },
+            {
+                "quantity": 2,
+                "total_price": 3600,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 4900,
+        "receipt_id": "S014",
+        "items": [
+            {
+                "quantity": 2,
+                "total_price": 1600,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Foam Shampoo"
+            },
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Windshield Wiper Blade"
+            },
+            {
+                "quantity": 1,
+                "total_price": 600,
+                "unit_price": 600,
+                "product_name": "Car Polish"
+            },
+            {
+                "quantity": 1,
+                "total_price": 1800,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            },
+            {
+                "quantity": 1,
+                "total_price": 100,
+                "unit_price": 100,
+                "product_name": "Battery Water"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 950,
+        "receipt_id": "S015",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 350,
+                "unit_price": 350,
+                "product_name": "Wheel Cleaner"
+            },
+            {
+                "quantity": 1,
+                "total_price": 600,
+                "unit_price": 600,
+                "product_name": "Car Polish"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 150,
+        "receipt_id": "S016",
+        "items": [{
+            "quantity": 1,
+            "total_price": 150,
+            "unit_price": 150,
+            "product_name": "Microfiber Cloth"
+        }],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 800,
+        "receipt_id": "S017",
+        "items": [{
+            "quantity": 1,
+            "total_price": 800,
+            "unit_price": 800,
+            "product_name": "Car Wax / Coating"
+        }],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 4250,
+        "receipt_id": "S018",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 800,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 350,
+                "unit_price": 350,
+                "product_name": "Wheel Cleaner"
+            },
+            {
+                "quantity": 2,
+                "total_price": 1200,
+                "unit_price": 600,
+                "product_name": "Car Polish"
+            },
+            {
+                "quantity": 1,
+                "total_price": 1800,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            },
+            {
+                "quantity": 1,
+                "total_price": 100,
+                "unit_price": 100,
+                "product_name": "Battery Water"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1100,
+        "receipt_id": "S019",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 300,
+                "unit_price": 300,
+                "product_name": "Interior Cleaning Brush"
+            },
+            {
+                "quantity": 1,
+                "total_price": 150,
+                "unit_price": 150,
+                "product_name": "Microfiber Cloth"
+            },
+            {
+                "quantity": 2,
+                "total_price": 500,
+                "unit_price": 250,
+                "product_name": "Wheel Brush"
+            },
+            {
+                "quantity": 1,
+                "total_price": 150,
+                "unit_price": 150,
+                "product_name": "Car Wash Sponge"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2200,
+        "receipt_id": "S020",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Windshield Wiper Blade"
+            },
+            {
+                "quantity": 1,
+                "total_price": 1800,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2150,
+        "receipt_id": "S021",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 800,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Windshield Wiper Blade"
+            },
+            {
+                "quantity": 1,
+                "total_price": 350,
+                "unit_price": 350,
+                "product_name": "Wheel Cleaner"
+            },
+            {
+                "quantity": 1,
+                "total_price": 600,
+                "unit_price": 600,
+                "product_name": "Car Polish"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 2300,
+        "receipt_id": "S022",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Windshield Wiper Blade"
+            },
+            {
+                "quantity": 1,
+                "total_price": 1800,
+                "unit_price": 1800,
+                "product_name": "Car Headlight Bulb (LED / Xenon)"
+            },
+            {
+                "quantity": 1,
+                "total_price": 100,
+                "unit_price": 100,
+                "product_name": "Battery Water"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 400,
+        "receipt_id": "S023",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 150,
+                "unit_price": 150,
+                "product_name": "Microfiber Cloth"
+            },
+            {
+                "quantity": 1,
+                "total_price": 250,
+                "unit_price": 250,
+                "product_name": "Wheel Brush"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1500,
+        "receipt_id": "S024",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 800,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 2,
+                "total_price": 700,
+                "unit_price": 350,
+                "product_name": "Wheel Cleaner"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 650,
+        "receipt_id": "S025",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 150,
+                "unit_price": 150,
+                "product_name": "Microfiber Cloth"
+            },
+            {
+                "quantity": 2,
+                "total_price": 500,
+                "unit_price": 250,
+                "product_name": "Wheel Brush"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-22",
+        "total": 1550,
+        "receipt_id": "S026",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 800,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Foam Shampoo"
+            },
+            {
+                "quantity": 1,
+                "total_price": 350,
+                "unit_price": 350,
+                "product_name": "Wheel Cleaner"
+            }
+        ],
+        "payment_method": "Cash"
+    },
+    {
+        "date": "2568-03-25",
+        "total": 1550,
+        "receipt_id": "S027",
+        "items": [
+            {
+                "quantity": 1,
+                "total_price": 800,
+                "unit_price": 800,
+                "product_name": "Car Wax / Coating"
+            },
+            {
+                "quantity": 1,
+                "total_price": 400,
+                "unit_price": 400,
+                "product_name": "Foam Shampoo"
+            },
+            {
+                "quantity": 1,
+                "total_price": 350,
+                "unit_price": 350,
+                "product_name": "Wheel Cleaner"
+            }
+        ],
+        "payment_method": "Cash"
+    }
+]

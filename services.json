@@ -1,0 +1,108 @@
+[
+  {
+    "service_id": "S001",
+    "name": "Exterior Car Wash",
+    "prices": {
+      "Motorcycle": 250.00,
+      "Sedan": 300.00,
+      "SUV/Pickup/Van": 400.00
+    },
+    "duration": {
+      "Motorcycle": "30 minutes",
+      "Sedan": "1 hour",
+      "SUV/Pickup/Van": "1 hour 30 minutes"
+    }
+  },
+  {
+    "service_id": "S002",
+    "name": "Interior Cleaning",
+    "prices": {
+      "Motorcycle": 300.00,
+      "Sedan": 400.00,
+      "SUV/Pickup/Van": 500.00
+    },
+    "duration": {
+      "Motorcycle": "1 hour",
+      "Sedan": "1 hour 30 minutes",
+      "SUV/Pickup/Van": "2 hours"
+    }
+  },
+  {
+    "service_id": "S003",
+    "name": "Paint Protection Coating",
+    "prices": {
+      "Motorcycle": 1000.00,
+      "Sedan": 2500.00,
+      "SUV/Pickup/Van": 3300.00
+    },
+    "duration": {
+      "Motorcycle": "45 minutes",
+      "Sedan": "2 hours",
+      "SUV/Pickup/Van": "3 hours"
+    }
+  },
+  {
+    "service_id": "S004",
+    "name": "Scratch Removal & Polishing",
+    "prices": {
+      "Motorcycle": 2500.00,
+      "Sedan": 3000.00,
+      "SUV/Pickup/Van": 5000.00
+    },
+    "duration": {
+      "Motorcycle": "1 hour",
+      "Sedan": "2 hours",
+      "SUV/Pickup/Van": "3 hours"
+    }
+  },
+  {
+    "service_id": "S005",
+    "name": "Glass Coating",
+    "prices": {
+      "Motorcycle": 8000.00,
+      "Sedan": 12000.00,
+      "SUV/Pickup/Van": 15000.00
+    },
+    "duration": {
+      "Motorcycle": "4 hours",
+      "Sedan": "5 hours",
+      "SUV/Pickup/Van": "7 hours"
+    }
+  },
+  {
+    "service_id": "S006",
+    "name": "Engine Bay Cleaning",
+    "prices": {
+      "Sedan": 1500.00,
+      "SUV/Pickup/Van": 2000.00
+    },
+    "duration": {
+      "Sedan": "1 hour 30 minutes",
+      "SUV/Pickup/Van": "2 hours"
+    }
+  },
+  {
+    "service_id": "S007",
+    "name": "Seat & Carpet Shampooing",
+    "prices": {
+      "Sedan": 1500.00,
+      "SUV/Pickup/Van": 2000.00
+    },
+    "duration": {
+      "Sedan": "2 hours",
+      "SUV/Pickup/Van": "3 hours"
+    }
+  },
+  {
+    "service_id": "S008",
+    "name": "Vacuum Cleaning",
+    "prices": {
+      "Sedan": 600.00,
+      "SUV/Pickup/Van": 700.00
+    },
+    "duration": {
+      "Sedan": "1 hour 30 minutes",
+      "SUV/Pickup/Van": "2 hours 30 minutes"
+    }
+  }
+]
